@@ -1,5 +1,4 @@
 # Heroes
-
 * Superman
 * Batman
 * Aquaman
